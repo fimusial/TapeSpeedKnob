@@ -7,7 +7,7 @@ A VST3 plugin to slow down audio with a single knob
 </p>
 
 #### Import?
-Simply grab the binary from *Releases* and put it somewhere your DAW can see it. There is only a 64-bit version.
+Simply grab the binary from *Releases* and put it somewhere your DAW can see it. The only available version is a 64-bit x86 Windows DLL (.vst3 file extension).
 
 #### Have fun?
 The effect is applied whenever audio is playing and the plugin is not bypassed. So automate the bypass parameter AND **the knob**. There is no limit on the length of the input audio track.
