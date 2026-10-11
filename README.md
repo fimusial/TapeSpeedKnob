@@ -3,7 +3,7 @@
 <img alt="logo" src="/tape-speed-knob.png" width="400">
 </p>
 <p align="right">
-A VST3 plugin to slow down audio with a single knob
+VST3 plugin to slow down audio with a single knob
 </p>
 
 #### Import?
